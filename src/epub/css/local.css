@@ -1,10 +1,7 @@
 @charset "utf-8";
 @namespace epub "http://www.idpf.org/2007/ops";
 
-@namespace epub "http://www.idpf.org/2007/ops";
-
 /* Dialogue table */
-
 [epub|type~="z3998:drama"] table{
 	border-collapse: collapse;
 	margin: 1em auto;
@@ -44,9 +41,7 @@ section[epub|type~="z3998:scene"] > p{
 	width: 75%;
 }
 
-
-/*Dramatis Personae */
-
+/* Dramatis Personae */
 [epub|type~="z3998:dramatis-personae"]{
 	text-align: center;
 }
@@ -67,8 +62,6 @@ section[epub|type~="z3998:scene"] > p{
 }
 
 /* Stage directions and personas */
-
-
 [epub|type~="z3998:stage-direction"]{
 	font-style: italic;
 }
