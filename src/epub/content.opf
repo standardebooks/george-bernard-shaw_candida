@@ -35,14 +35,14 @@
 		<meta property="authority" refines="#subject-2">LCSH</meta>
 		<meta property="term" refines="#subject-2">sh2008107215</meta>
 		<meta property="se:subject">Drama</meta>
-		<dc:description id="description">DESCRIPTION</dc:description>
+		<dc:description id="description">A clergyman’s beliefs about his respectable household are challenged by a young poet who is in love with his wife.</dc:description>
 		<meta id="long-description" property="se:long-description" refines="#description">
-			LONG_DESCRIPTION
+			&lt;p&gt;&lt;i&gt;Candida&lt;/i&gt; is one of &lt;a href="https://standardebooks.org/ebooks/george-bernard-shaw"&gt;George Bernard Shaw’s&lt;/a&gt; most popular and enduring plays; not an immediate hit like his earlier &lt;i&gt;&lt;a href="https://standardebooks.org/ebooks/george-bernard-shaw/arms-and-the-man"&gt;Arms and the Man&lt;/a&gt;&lt;/i&gt;, but influential enough that the New York press soon began to deplore the outbreak of “Candidamania.”&lt;/p&gt;
+			&lt;p&gt;Set entirely in the drawing room of the Reverend James Mavor Morell, the play explores the relationships between a small group of characters, especially Morell, his wife Candida, and her new admirer, an idealistic young poet.&lt;/p&gt;
 		</meta>
 		<dc:language>en-GB</dc:language>
 		<dc:source>https://www.gutenberg.org/ebooks/4023</dc:source>
 		<dc:source>https://archive.org/details/playspleasantunp0002shaw</dc:source>
-		<meta property="se:production-notes">PRODUCTION_NOTES</meta>
 		<meta property="se:word-count">WORD_COUNT</meta>
 		<meta property="se:reading-ease.flesch">READING_EASE</meta>
 		<meta property="se:url.encyclopedia.wikipedia">https://en.wikipedia.org/wiki/Candida</meta>
