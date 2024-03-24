@@ -45,7 +45,7 @@
 		<dc:source>https://archive.org/details/playspleasantunp0002shaw</dc:source>
 		<meta property="se:word-count">WORD_COUNT</meta>
 		<meta property="se:reading-ease.flesch">READING_EASE</meta>
-		<meta property="se:url.encyclopedia.wikipedia">https://en.wikipedia.org/wiki/Candida</meta>
+		<meta property="se:url.encyclopedia.wikipedia">https://en.wikipedia.org/wiki/Candida_(play)</meta>
 		<meta property="se:url.vcs.github">https://github.com/standardebooks/george-bernard-shaw_candida</meta>
 		<dc:creator id="author">George Bernard Shaw</dc:creator>
 		<meta property="file-as" refines="#author">Shaw, George Bernard</meta>
@@ -53,6 +53,7 @@
 		<meta property="se:url.authority.nacoaf" refines="#author">http://id.loc.gov/authorities/names/n79006533</meta>
 		<meta property="role" refines="#author" scheme="marc:relators">aut</meta>
 		<dc:contributor id="artist">Frederick Sandys</dc:contributor>
+		<meta property="se:name.person.full-name" refines="#artist">Anthony Frederick Augustus Sandys</meta>
 		<meta property="file-as" refines="#artist">Sandys, Frederick</meta>
 		<meta property="se:url.encyclopedia.wikipedia" refines="#artist">https://en.wikipedia.org/wiki/Frederick_Sandys</meta>
 		<meta property="se:url.authority.nacoaf" refines="#artist">http://id.loc.gov/authorities/names/n84017993</meta>
